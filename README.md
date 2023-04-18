@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@jhnaiem96">
-    <img src="https://img.shields.io/badge/medium-blogs-brightgreen" alt="Medium Badge"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium Badge" height="30" width="40"/>
   </a>
 </div>
 
